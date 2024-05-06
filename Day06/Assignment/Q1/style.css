@@ -1,0 +1,20 @@
+* {
+  margin: 0%;
+  padding: 0%;
+  box-sizing: border-box;
+}
+
+.container {
+  padding: 50px;
+}
+.first_para {
+  text-align: justify;
+}
+
+p {
+  margin-bottom: 20px;
+}
+
+button {
+  padding: 10px;
+}
