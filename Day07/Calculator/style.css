@@ -1,0 +1,28 @@
+* {
+  margin: 0%;
+  padding: 0%;
+  box-sizing: border-box;
+}
+
+html,
+body {
+  width: 100%;
+  height: 100%;
+  background-color: "#6a98e0";
+}
+
+.container {
+  margin: 30px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+input {
+  padding: 20px;
+}
+
+/* 1rem = 16px; */
+.second_section {
+  margin-top: 2rem;
+}
