@@ -19,3 +19,13 @@ function subtract() {
   resultField.setAttribute("type", "number");
   resultField.value = resultValue;
 }
+
+function multiply() {
+  let firstNumber = parseInt(document.querySelector("#firstNumber").value);
+  let secondNumber = parseInt(document.querySelector("#secondNumber").value);
+
+  let resultValue = firstNumber * secondNumber;
+
+  resultField.setAttribute("type", "number");
+  resultField.value = resultValue;
+}
