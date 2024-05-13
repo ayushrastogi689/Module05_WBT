@@ -1,0 +1,1 @@
+Write into file demo in Node.jsSecond line appended in Notes.
